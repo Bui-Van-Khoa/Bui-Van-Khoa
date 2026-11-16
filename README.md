@@ -1,5 +1,5 @@
 
-# Hi there, I'm YOUR_USERNAME 👋
+# I am an NLP Engineer with a background in software engineering and an interest in building intelligent systems that solve real-world problems.
 
 ## 📊 GitHub Statistics
 
